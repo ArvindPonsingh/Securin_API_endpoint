@@ -1,0 +1,8 @@
+flask 
+sqlalchemy 
+sqlalchemy.orm 
+pandas
+json
+ast
+sqlite3
+psycopg2
