@@ -1,0 +1,10 @@
+Download Postgress in your system and install the requirements using pip
+
+# Database connection
+DB_USER = "your_username"
+DB_PASSWORD = "your_password"
+DB_HOST = "your_hostname"
+DB_PORT = "your_port"
+DB_NAME = "your_database_name"
+
+Make sure to replace these in the code
